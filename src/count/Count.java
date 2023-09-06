@@ -15,6 +15,6 @@ public class Count {
             num = (num/10);
 
         }
-        System.out.println(count);
+        System.out.println("The total digit is : "+count);
     }
 }
