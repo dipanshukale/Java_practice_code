@@ -22,7 +22,9 @@ public class Second_largest_digit {
            }
 
            num = (num/10);
-      }System.out.println("Your second largest digit is : "+second);
+      }
+        System.out.println("Your largest digit is : "+digit);
+      System.out.println("Your second largest digit is : "+second);
 
 
 
