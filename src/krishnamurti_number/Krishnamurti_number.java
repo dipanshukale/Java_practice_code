@@ -1,4 +1,4 @@
-package krishnamurhty_number;
+package krishnamurti_number;
 
 import java.util.Scanner;
 
