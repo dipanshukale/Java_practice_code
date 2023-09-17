@@ -17,9 +17,6 @@ public class Replace {
 
         }
 
-
-
-
         System.out.println("Enter same Number :  ");
         user = scan.nextInt();
         System.out.println("Enter new-element : ");
