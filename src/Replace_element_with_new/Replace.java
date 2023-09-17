@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Replace {
     public static void main(String[] args) {
-        int num, element,user, value;
-         int arr[] = new int[10];
+        int  element,user;
+         int [] arr = new int[10];
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Please Enter Your Array Numbers : ");
