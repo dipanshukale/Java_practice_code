@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Linear_search {
     public static void main(String[] args) {
-        int size, num, left = 0, value;
+        int size, value;
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your Array Length : ");
         size = scan.nextInt();
-          int arr[] = new int[size];
+          int[] arr = new int[size];
 
         System.out.println("Enter your array Numbers : ");
         for (int i =0; i<arr.length; i++){
