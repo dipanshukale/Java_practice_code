@@ -45,13 +45,16 @@ public class Quick_sort {
             System.out.print(arr[i]+" ");
         }
         System.out.println();
-//
-//        System.out.print("largest element than pivot  :");
-//        for (int i =0; i< arr.length;i++){
-//            if (arr[i]>pivot){
-//                System.out.print(" "+arr[i]);
-//            }
-//        }
+
+        System.out.print("largest element than pivot  :");
+        int j=0;
+        for (int i =0; i< arr.length;i++){
+            if(arr[i]<pivot){
+
+            }
+
+            j++;
+        }
 
         for (int i =0; i<pivot; i++){
             if (arr[i]<pivot){
