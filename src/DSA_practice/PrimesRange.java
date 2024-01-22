@@ -1,2 +1,5 @@
-package DSA_practice;public class PrimesRange {
+package DSA_practice;
+
+public class PrimesRange {
+
 }
