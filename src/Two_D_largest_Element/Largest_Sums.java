@@ -44,6 +44,7 @@ public class Largest_Sums {
 
 
         }
+        System.out.println(arr[1][c-1]);
 
         System.out.println("Sum of largest element of each row is : "+value);
     }
